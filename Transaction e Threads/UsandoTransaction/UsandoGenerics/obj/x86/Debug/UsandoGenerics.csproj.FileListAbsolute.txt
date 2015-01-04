@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\bin\Debug\Vendas.mdf
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\bin\Debug\Vendas_log.LDF
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\bin\Debug\UsandoGenerics.exe
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\bin\Debug\UsandoGenerics.pdb
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\obj\x86\Debug\UsandoGenerics.exe
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoGenerics\obj\x86\Debug\UsandoGenerics.pdb
+C:\Documents and Settings\Chrystian Mayk\Desktop\Transaction e Threads\UsandoTransaction\UsandoGenerics\obj\x86\Debug\UsandoGenerics.exe
+C:\Documents and Settings\Chrystian Mayk\Desktop\Transaction e Threads\UsandoTransaction\UsandoGenerics\obj\x86\Debug\UsandoGenerics.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\Transaction e Threads\UsandoTransaction\UsandoGenerics\obj\x86\Debug\UsandoGenerics.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\Transaction e Threads\UsandoTransaction\UsandoGenerics\obj\x86\Debug\UsandoGenerics.pdb

@@ -1,0 +1,26 @@
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.FormNovoItem.resources
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.FormPrincipal.resources
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.Properties.Resources.resources
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\ExplicandoTransacoes.exe
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\ExplicandoTransacoes.pdb
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.exe
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.pdb
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\Vendas.mdf
+C:\Users\Aluno\Desktop\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\Vendas_log.ldf
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.exe
+F:\UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.pdb
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.FormNovoItem.resources
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.FormPrincipal.resources
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\ExplicandoTransacoes.Properties.Resources.resources
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\Vendas.mdf
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\Vendas_log.ldf
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\ExplicandoTransacoes.exe
+D:\Meus documentos\SISTEMAS DE INFORMAÇÃO UNES\4º Período (2012)\R. Maróquio (LP III)\Exercício 23.10.2012\ExplicandoTransacoes\ExplicandoTransacoes\bin\Debug\ExplicandoTransacoes.pdb

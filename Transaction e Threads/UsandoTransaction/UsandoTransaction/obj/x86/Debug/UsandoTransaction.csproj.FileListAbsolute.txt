@@ -1,0 +1,26 @@
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\bin\Debug\UsandoTransaction.exe
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\bin\Debug\UsandoTransaction.pdb
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.FormPrincipal.resources
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.Properties.Resources.resources
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.exe
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.pdb
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.FormNovoItem.resources
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\bin\Debug\UsandoTransaction.exe.config
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\bin\Debug\Vendas.mdf
+C:\Users\Aluno\Desktop\UsandoTransaction\UsandoTransaction\bin\Debug\Vendas_log.ldf
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\bin\Debug\UsandoTransaction.exe.config
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.exe
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.pdb
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\bin\Debug\Vendas.mdf
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\bin\Debug\Vendas_log.ldf
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\bin\Debug\UsandoTransaction.exe
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\bin\Debug\UsandoTransaction.pdb
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.FormNovoItem.resources
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.FormPrincipal.resources
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\UsandoTransaction.Properties.Resources.resources
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Saulo\UNES\LP III\UsandoTransaction\UsandoTransaction\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,18 @@
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\UsandoThreads.exe
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\UsandoThreads.pdb
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.FormPrincipal.resources
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.Properties.Resources.resources
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.exe
+C:\Users\Aluno\Desktop\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.pdb
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.exe
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.pdb
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\UsandoThreads.exe
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\bin\Debug\UsandoThreads.pdb
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.FormPrincipal.resources
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.Properties.Resources.resources
+E:\Saulo\UNES\LP III\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.csproj.GenerateResource.Cache
+C:\Documents and Settings\Chrystian Mayk\Desktop\Transaction e Threads\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.exe
+C:\Documents and Settings\Chrystian Mayk\Desktop\Transaction e Threads\UsandoThreads\UsandoThreads\UsandoThreads\obj\x86\Debug\UsandoThreads.pdb
